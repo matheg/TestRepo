@@ -23,5 +23,9 @@ public class NewTestClass1 {
     //nothing
     public NewTestClass1(){
     //do shit
+    
+    
+    
+    //yet another line
 }
 }
