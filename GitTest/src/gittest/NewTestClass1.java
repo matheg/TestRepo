@@ -10,7 +10,9 @@ package gittest;
  * @author Olav Rune
  */
 public class NewTestClass1 {
-    // new class
+ // Enter code here
+ // Test
+
     
-    // TESt test testbranch
+    
 }
