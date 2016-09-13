@@ -11,4 +11,5 @@ package gittest;
  */
 public class NewTestClass1 {
     // new class
+    //Testbranch2
 }
