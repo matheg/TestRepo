@@ -21,6 +21,7 @@ public class NewTestClass1 {
 //=======
     //christerstuff
 //Hvordan fungerer git? -Matias
+// bra
 
 // GITHUBtest1
 
