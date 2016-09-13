@@ -10,21 +10,5 @@ package gittest;
  * @author Olav Rune
  */
 public class NewTestClass1 {
-    // new class
-    
-    // TESt test testbranch
-    
-//<<<<<<< HEAD
-    //stgyuduideufk
+ 
 }
-//matias
-//=======
-    //christerstuff
-}
-//Hvordan fungerer git? -Matias
-
-// GITHUBtest1
-
-//kjkjjkj
-//hkhfowejdwqkpdqwædkq
->>>>>>> refs/remotes/OlavRune/master
