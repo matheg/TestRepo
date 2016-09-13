@@ -14,6 +14,14 @@ public class NewTestClass1 {
     
     // TESt test testbranch
     
+<<<<<<< HEAD
     //stgyuduideufk
 }
 //matias
+=======
+    //christerstuff
+}
+
+//kjkjjkj
+//hkhfowejdwqkpdqwædkq
+>>>>>>> refs/remotes/OlavRune/master
