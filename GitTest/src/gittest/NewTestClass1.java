@@ -12,6 +12,7 @@ package gittest;
 public class NewTestClass1 {
  // Enter code here
  // Test
+    // Test 2
 
     
     
