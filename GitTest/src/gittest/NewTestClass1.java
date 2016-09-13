@@ -12,4 +12,16 @@ package gittest;
 public class NewTestClass1 {
     // new class
     //Testbranch2
+    //TesBranch3
+    int i;
+    
+    
+    
+    //jfjfjfjfjf
+
+    
+    //nothing
+    public NewTestClass1(){
+    //do shit
+}
 }
