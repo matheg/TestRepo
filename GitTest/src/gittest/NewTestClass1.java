@@ -20,11 +20,10 @@ public class NewTestClass1 {
 //matias
 //=======
     //christerstuff
-}
 //Hvordan fungerer git? -Matias
 
 // GITHUBtest1
 
 //kjkjjkj
 //hkhfowejdwqkpdqwædkq
->>>>>>> refs/remotes/OlavRune/master
+
