@@ -14,14 +14,16 @@ public class NewTestClass1 {
     
     // TESt test testbranch
     
-<<<<<<< HEAD
+//<<<<<<< HEAD
     //stgyuduideufk
 }
 //matias
-=======
+//=======
     //christerstuff
 }
 //Hvordan fungerer git? -Matias
+
+// GITHUBtest1
 
 //kjkjjkj
 //hkhfowejdwqkpdqwædkq
