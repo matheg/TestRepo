@@ -16,4 +16,21 @@ public class NewTestClass1 {
 
     
     
+<<<<<<< HEAD
 }
+=======
+//<<<<<<< HEAD
+    //stgyuduideufk
+}
+//matias
+//=======
+    //christerstuff
+//Hvordan fungerer git? -Matias
+// bra
+
+// GITHUBtest1
+
+//kjkjjkj
+//hkhfowejdwqkpdqwædkq
+
+>>>>>>> refs/remotes/OlavRune/master
