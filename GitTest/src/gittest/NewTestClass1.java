@@ -10,5 +10,5 @@ package gittest;
  * @author Olav Rune
  */
 public class NewTestClass1 {
- 
+ // Enter code here
 }
